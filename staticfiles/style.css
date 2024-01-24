@@ -1,0 +1,33 @@
+#text{
+    background-color: #4ac1f7;
+    border: 2px solid black;
+    overflow: auto;
+    resize: both;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
+                0 6px 20px 0 rgba(0, 0, 0, 0.39);
+    font-size: medium;
+    font-weight: bold;
+
+}
+
+.card{
+    align-items: center;
+    padding: 4px;
+    margin-top: 45.5px;
+    background-color: #5E5694;
+    font-weight: bold;
+    border: 2px solid black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.5),
+                0 6px 20px 0 rgba(0, 0, 0, 0.39);
+}
+
+.card:hover{
+    background-color: #19865C;
+}
+#text:hover{
+    background-color: lightgreen;
+}
+
+body{
+    background-color: lightgrey;
+}

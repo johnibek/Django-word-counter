@@ -1,0 +1,7 @@
+# Pycharm folders
+venv/
+.idea/
+__pycache__/
+
+# Database
+*.sqlite3
